@@ -1,4 +1,3 @@
-// src/app/result/[makeId]/[year]/page.tsx
 import { useEffect, useState } from "react";
 
 interface Vehicle {
